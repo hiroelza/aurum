@@ -1,6 +1,7 @@
 # aurum - 個人資産運用・人生設計プロジェクト
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Claude Code](https://img.shields.io/badge/Claude_Code-Ready-8A2BE2.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 個人の資産運用、教育費計画、老後資金シミュレーションを統計的に分析し、データに基づいた投資判断を支援するプロジェクトです。
