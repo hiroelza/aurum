@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# User-specific files (これらは各ユーザーが作成)
+INVESTMENT_PROFILE.md
+sources/profile/asset_details.md
+sources/profile/investment_history.md
+python/config/personal.py
+document/PERSONAL_DATA.md
+
+# Reference data (個人の投資データ・参考資料)
+sources/reference/
+
+# Reports and outputs (実際の分析レポートは公開しない)
+outputs/
+
+# ただし.gitkeepファイルは空ディレクトリ追跡のため許可
+!**/.gitkeep
+
+# Temporary files
+*.tmp
+*.log
+.archive/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment variables
+.env
+.env.local
+
+# Claude Code local settings
+.claude/settings.local.json
