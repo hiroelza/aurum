@@ -1,5 +1,8 @@
 # aurum - 個人資産運用・人生設計プロジェクト
 
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 個人の資産運用、教育費計画、老後資金シミュレーションを統計的に分析し、データに基づいた投資判断を支援するプロジェクトです。
 
 **プロジェクト名の由来**: aurum（アウルム）はラテン語で「金（Gold）」を意味し、古代から資産価値の象徴として扱われてきました。時間を経ても変わらない価値を表現しています。
